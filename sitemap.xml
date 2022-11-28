@@ -4,7 +4,6 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
@@ -233,26 +232,6 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://tranvanhao.com/blog/blog-kien-thuc-1/huong-dan-chuyen-nguoi-tu-van-chung-khoan-vps-tcbs-vpbanks-32.html</loc>
-  <lastmod>2022-11-22T05:36:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tranvanhao.com/blog/blog-kien-thuc-1/tag/tcbs-10.html</loc>
-  <lastmod>2022-11-22T05:36:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tranvanhao.com/blog/blog-kien-thuc-1/tag/vps-12.html</loc>
-  <lastmod>2022-11-22T05:36:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tranvanhao.com/blog/blog-kien-thuc-1/tag/vpbanks-11.html</loc>
-  <lastmod>2022-11-22T05:36:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
   <loc>https://tranvanhao.com/blog/blog-kien-thuc-1/page/2.html</loc>
   <lastmod>2022-11-22T05:36:32+00:00</lastmod>
   <priority>0.64</priority>
@@ -261,21 +240,6 @@
   <loc>https://tranvanhao.com/blog/blog-kien-thuc-1/page/3.html</loc>
   <lastmod>2022-11-22T05:36:32+00:00</lastmod>
   <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tranvanhao.com/blog/blog-kien-thuc-1/huong-dan-mo-tai-khoan-chung-khoan-vps-online-31.html</loc>
-  <lastmod>2022-11-22T05:36:32+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tranvanhao.com/blog/blog-kien-thuc-1/huong-dan-mo-tai-khoan-chung-khoan-vpbanks-30.html</loc>
-  <lastmod>2022-11-22T05:36:32+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tranvanhao.com/blog/blog-kien-thuc-1/huong-dan-mo-tai-khoan-chung-khoan-ky-thuong-tcbs-online-27.html</loc>
-  <lastmod>2022-11-22T05:36:32+00:00</lastmod>
-  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://tranvanhao.com/shop9d3a.html</loc>
@@ -599,11 +563,6 @@
 </url>
 <url>
   <loc>https://tranvanhao.com/blog/blog-kien-thuc-1/nhung-yeu-to-quyet-inh-thanh-cong-cua-mot-nha-au-tu-17.html</loc>
-  <lastmod>2022-11-22T05:36:32+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tranvanhao.com/blog/blog-kien-thuc-1/huong-dan-au-tu-tai-chung-khoan-tcbs-chi-tiet-a-en-z-29.html</loc>
   <lastmod>2022-11-22T05:36:32+00:00</lastmod>
   <priority>0.51</priority>
 </url>
