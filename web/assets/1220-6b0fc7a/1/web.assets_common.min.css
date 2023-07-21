@@ -1,0 +1,121 @@
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('../../../static/lib/fontawesome/fonts/fontawesome-webfont3e6e.eot?v=4.7.0');
+    src: url('../../../static/lib/fontawesome/fonts/fontawesome-webfontd41d.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('../../../static/lib/fontawesome/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0') format('woff2'), url('../../../static/lib/fontawesome/fonts/fontawesome-webfont3e6e.woff?v=4.7.0') format('woff'), url('../../../static/lib/fontawesome/fonts/fontawesome-webfont3e6e.ttf?v=4.7.0') format('truetype'), url('../../../static/lib/fontawesome/fonts/fontawesome-webfont3e6e.svg?v=4.7.0#fontawesomeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.fa-3x {
+    font-size: 3em;
+}
+.fa-signal:before {
+    content: "\f012";
+}
+.fa-shopping-cart:before {
+    content: "\f07a";
+}
+.fa-suitcase:before {
+    content: "\f0f2";
+}
+.dropdown-toggle {
+    white-space: nowrap;
+}
+.fa-search:before {
+    content: "\f002";
+}
+.fa-heart:before {
+    content: "\f004";
+}
+.fa-twitter:before {
+    content: "\f099";
+}
+
+.fa-facebook-f:before, .fa-facebook:before {
+    content: "\f09a";
+}
+.fa-pinterest:before {
+    content: "\f0d2";
+}
+.fa-envelope:before {
+    content: "\f0e0";
+}
+.o_text_overflow {
+    display: inline-block;
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: top;
+}
+.o_image_64_max {
+    max-width: 64px;
+    max-height: 64px;
+}
+.fa-home:before {
+    content: "\f015";
+}
+.fa-file-text:before {
+    content: "\f15c";
+}
+.fa-chevron-left:before {
+    content: "\f053";
+}
+
+.fa-chevron-right:before {
+    content: "\f054";
+}
+.fa-chevron-down:before {
+    content: "\f078";
+}
+.fa-bar-chart-o:before, .fa-bar-chart:before {
+    content: "\f080";
+}
+.fa-comments:before {
+    content: "\f086";
+}
+.fa-trophy:before {
+    content: "\f091";
+}
+.fa-desktop:before {
+    content: "\f108";
+}
+.fa-share-alt:before {
+    content: "\f1e0";
+}
+.fa-tag:before {
+    content: "\f02b";
+}
+.fa-eraser:before {
+    content: "\f12d";
+}
+.fa-facebook-square:before {
+    content: "\f082";
+}
+.fa-rss-square:before {
+    content: "\f143";
+}
+.fa-youtube-play:before {
+    content: "\f16a";
+}
+.fa-angle-down:before {
+    content: "\f107";
+}
+.fa-angle-right:before {
+    content: "\f105";
+}
+.fa-linkedin:before {
+    content: "\f0e1";
+}
+.fa-twitter:before {
+    content: "\f099";
+}
+.no-js {display: none;}
